@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+
+
+.jj {
+    width: 100%;
+    height:1080px;
+    background-color: rgb(78, 217, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+.jj h1{
+    color: white;
+     text-align: center;
+}
